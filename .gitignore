@@ -1,1 +1,4 @@
 new-file.txt
+
+# ignore all files in the bin folder
+bin/   
